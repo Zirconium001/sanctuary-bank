@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/sanctuary_bank
-    username: postgres
-    password: ${DB_PASSWORD:postgres}
+    url: jdbc:postgresql://dpg-d8ud28e8bjmc73dmmfug-a:5432/sanctuarity
+    username: sanctuarity_user
+    password: tnG5T7W6G7TWjMaXgjEQoz3aRbLiQUEQ
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
